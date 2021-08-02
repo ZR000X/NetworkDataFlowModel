@@ -1,3 +1,5 @@
+nodes = []
+
 class relship:
     def __init__(self, node1, node2) -> None:
         self.node1 = node1
